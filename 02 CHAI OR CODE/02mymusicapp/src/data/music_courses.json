@@ -8,7 +8,7 @@
             "price": 99.99,
             "instructor": "John Doe",
             "isFeatured": true,
-            "image": "/courses/guitar.jpg"
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/026/795/346/small_2x/abstract-illustration-of-musical-instruments-ai-generative-png.png"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "price": 109.99,
             "instructor": "Jane Smith",
             "isFeatured": false,
-            "image": "/courses/piano.jpg"
+            "image": "https://w7.pngwing.com/pngs/987/178/png-transparent-piano-piano-furniture-image-file-formats-piano-thumbnail.png"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "price": 119.99,
             "instructor": "Emily Johnson",
             "isFeatured": true,
-            "image": "/courses/vocalist.jpg"
+            "image": "/courses/vocal.jpg"
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "price": 129.99,
             "instructor": "Mike Brown",
             "isFeatured": false,
-            "image": "/courses/drumming.jpg"
+            "image": "https://png.pngtree.com/png-clipart/20190801/ourmid/pngtree-gold-color-drum-set-png-image_1643312.jpg"
         },
         {
             "id": 5,
@@ -47,8 +47,8 @@
             "description": "Learn the art of jazz improvisation with this course designed for all levels.",
             "price": 139.99,
             "instructor": "Chris Davis",
-            "isFeatured": false,
-            "image": "/courses/jazz.jpg"
+            "isFeatured": true,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4SNK8RJi8m5obzT5gtv4NBpnlt_ejp5XotA&s"
         },
         {
             "id": 6,
