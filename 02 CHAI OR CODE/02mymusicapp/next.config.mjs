@@ -8,7 +8,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['static.vecteezy.com', 'encrypted-tbn0.gstatic.com'],
+        domains: ['static.vecteezy.com', 'images.unsplash.com', 'res.cloudinary.com'],
     },
 };
 
