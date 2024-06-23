@@ -8,7 +8,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['static.vecteezy.com', 'images.unsplash.com', 'res.cloudinary.com'],
+        domains: [
+            'static.vecteezy.com',
+            'images.unsplash.com',
+            'res.cloudinary.com',
+            'images.pexels.com',
+        ],
     },
 };
 

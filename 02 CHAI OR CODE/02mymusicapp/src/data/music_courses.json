@@ -8,7 +8,7 @@
             "price": 99.99,
             "instructor": "John Doe",
             "isFeatured": true,
-            "image": "https://static.vecteezy.com/system/resources/thumbnails/026/795/346/small_2x/abstract-illustration-of-musical-instruments-ai-generative-png.png"
+            "image": "https://images.pexels.com/photos/1407322/pexels-photo-1407322.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "price": 109.99,
             "instructor": "Jane Smith",
             "isFeatured": false,
-            "image": "https://w7.pngwing.com/pngs/987/178/png-transparent-piano-piano-furniture-image-file-formats-piano-thumbnail.png"
+            "image": "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "price": 119.99,
             "instructor": "Emily Johnson",
             "isFeatured": true,
-            "image": "/courses/vocal.jpg"
+            "image": "https://images.pexels.com/photos/5967960/pexels-photo-5967960.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "price": 129.99,
             "instructor": "Mike Brown",
             "isFeatured": false,
-            "image": "https://png.pngtree.com/png-clipart/20190801/ourmid/pngtree-gold-color-drum-set-png-image_1643312.jpg"
+            "image": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 5,
@@ -48,7 +48,7 @@
             "price": 139.99,
             "instructor": "Chris Davis",
             "isFeatured": true,
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4SNK8RJi8m5obzT5gtv4NBpnlt_ejp5XotA&s"
+            "image": "https://images.pexels.com/photos/2347916/pexels-photo-2347916.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 6,
@@ -58,7 +58,7 @@
             "price": 149.99,
             "instructor": "Alex Wilson",
             "isFeatured": true,
-            "image": "/courses/music-prod.jpg"
+            "image": "https://images.pexels.com/photos/3784221/pexels-photo-3784221.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 7,
@@ -68,7 +68,7 @@
             "price": 159.99,
             "instructor": "Samantha Miller",
             "isFeatured": false,
-            "image": "/courses/song-writing.jpg"
+            "image": "https://images.pexels.com/photos/7322030/pexels-photo-7322030.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 8,
@@ -78,7 +78,7 @@
             "price": 169.99,
             "instructor": "Luke Harris",
             "isFeatured": true,
-            "image": "/courses/music-prod.jpg"
+            "image": "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 9,
@@ -88,7 +88,7 @@
             "price": 179.99,
             "instructor": "Grace Lee",
             "isFeatured": false,
-            "image": "/courses/classical-music.jpg"
+            "image": "https://images.pexels.com/photos/172843/pexels-photo-172843.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 10,
@@ -98,7 +98,7 @@
             "price": 189.99,
             "instructor": "Ethan Moore",
             "isFeatured": true,
-            "image": "/courses/blues.jpg"
+            "image": "https://images.pexels.com/photos/4471325/pexels-photo-4471325.jpeg?auto=compress&cs=tinysrgb&w=600"
         }
     ]
 }

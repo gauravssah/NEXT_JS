@@ -117,3 +117,5 @@ export const WavyBackground = ({
         </div>
     );
 };
+
+export const BackgroundBeams = WavyBackground; 
